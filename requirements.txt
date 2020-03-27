@@ -1,0 +1,6 @@
+torch==1.4.0
+opencv-python==4.1.0.25
+torchvision
+Pillow
+jupyter
+
