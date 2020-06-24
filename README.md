@@ -1,12 +1,15 @@
-# Deep Perncil sketch
-Convert images as they would look like if were pencil dawn.
+# Deep Pencil sketch
 
-For using deep model download the models folder, unzip it and put "models" folder in this dir. 
+Convert images as they would look like if were pencil drawn.
 
-Download link -> 
-https://drive.google.com/drive/folders/1ZQjs8y7CAK1At8DaGD-bJxdcVW56ckey?usp=sharing
+For using deep model download the weights from drive and put files under folder named as "models/..." 
 
-Run the command to install requirements -> pip install -r requirements.txt
+Download from - [link](https://drive.google.com/drive/folders/1WZi5vQYggfki5eV0QWAbViVQYtzxetXS?usp=sharing)
 
 
-Test model by running code -> python contours.py
+Run the command to install requirements ``pip install -r requirements.txt``
+
+
+Test model by running the file ``contours.py``
+
+Or see example code in the notebook ``results.ipynb``.
