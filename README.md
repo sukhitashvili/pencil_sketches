@@ -1,6 +1,6 @@
 # Deep Pencil sketch
 
-Convert images to look like as drawn by pencil.
+Convert images to look like as drawn by pencil using deep model.
 
 For using deep model download the weights from drive and put files under folder named as ``./models/...`` 
 
